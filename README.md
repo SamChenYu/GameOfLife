@@ -19,6 +19,5 @@ The game can reach an end state in which no further changes occur.
 Some patterns stabilize into stable configurations, while others may lead to chaotic or infinite behavior.
 
 Within the simulator, you can specify the resolution to play at, as well as cell size and delay between each evolution.
-![mainmenu1](https://github.com/SamChenYu/GameOfLife/assets/150127006/9ae7838c-c087-42bc-b159-ee23cddf91f5)
 ![scren1](https://github.com/SamChenYu/GameOfLife/assets/150127006/d77feb71-a582-45a9-be22-699deb35613d)
 
