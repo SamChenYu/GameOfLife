@@ -20,4 +20,5 @@ Some patterns stabilize into stable configurations, while others may lead to cha
 
 Within the simulator, you can specify the resolution to play at, as well as cell size and delay between each evolution.
 ![scren1](https://github.com/SamChenYu/GameOfLife/assets/150127006/d77feb71-a582-45a9-be22-699deb35613d)
+![mainscreen2](https://github.com/SamChenYu/GameOfLife/assets/150127006/60903f16-b3d6-4f58-8c3a-a99e934564fe)
 
